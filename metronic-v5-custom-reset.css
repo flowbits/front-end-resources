@@ -272,3 +272,144 @@ a.text-hover-primary:hover, .text-hover-primary:hover {
 .toast.toast-info {
     background-color: #787d62;
 }
+
+        /*######Metronic v4######*/
+        .m-aside-menu, .m-grid__item.m-header, .m-stack__item.m-brand {
+            background-color: #323435 !important;
+        }
+
+
+            .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link {
+                background-color: #9b9c88 !important;
+            }
+
+        .m-menu__link-icon.flaticon-line-graph {
+            color: #fff !important;
+        }
+
+        .m-menu__link-text {
+            color: #fff !important;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__heading, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__link {
+            background-color: #9b9c88;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--open > .m-menu__heading, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--open > .m-menu__link {
+            background-color: #9b9c88;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__heading, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__link {
+            background-color: #9b9c88;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active > .m-menu__link {
+            background-color: #9b9c88 !important;
+        }
+
+            .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active > .m-menu__heading .m-menu__link-icon, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item.m-menu__item--active > .m-menu__link .m-menu__link-icon {
+                color: #fff;
+            }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--open > .m-menu__heading .m-menu__link-icon, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--open > .m-menu__link .m-menu__link-icon {
+            color: #fff;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__heading .m-menu__link-icon, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__link .m-menu__link-icon {
+            color: #fff;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__heading .m-menu__link-icon, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item .m-menu__submenu .m-menu__item:not(.m-menu__item--parent):not(.m-menu__item--open):not(.m-menu__item--expanded):not(.m-menu__item--active):hover > .m-menu__link .m-menu__link-icon {
+            color: #fff;
+        }
+
+        .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__heading .m-menu__link-icon, .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link .m-menu__link-icon {
+            color: #fff;
+        }
+
+        .m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-nav__link-icon i:before {
+            font-weight: 700;
+            padding: 1px;
+        }
+
+        .m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-nav__link-icon > i:before {
+            color: #fff !important;
+            background: none !important;
+            -webkit-text-fill-color: none !important;
+        }
+
+        .m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-nav__link-icon i:before {
+            font-weight: 500 !important;
+            -webkit-text-fill-color: azure;
+        }
+
+        .m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-nav__link-icon {
+            color: #fff;
+        }
+
+        #HeaderCurrentUserName {
+            color: #fff !important;
+        }
+
+        .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::after, .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::before {
+            color: #fff !important;
+        }
+
+        .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler span {
+            background: #ffffff;
+        }
+
+            .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler span::after, .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler span::before {
+                background: #fff;
+            }
+
+        #m_aside_left_minimize_toggle:hover {
+            color: #fff !important;
+        }
+
+        .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span {
+            background: #fff !important;
+        }
+
+            .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::after, .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::before {
+                background: #fff !important;
+            }
+
+            .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::after, .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler:hover span::before {
+                background: #fff !important;
+            }
+
+        .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span {
+            background: #fff;
+        }
+
+            .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::after, .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::before {
+                background: #fff;
+            }
+
+            .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::after, .m-brand.m-brand--skin-light .m-brand__tools .m-brand__toggler.m-brand__toggler--active span::before {
+                background: #fff;
+            }
+
+        .m-topbar .m-topbar__nav.m-nav > .m-nav__item > .m-nav__link .m-topbar__username {
+            color: #fff !important;
+        }
+
+        .m-nav__link.m-dropdown__toggle {
+            color: #fff !important;
+        }
+
+        @media (min-width: 1025px) {
+            .m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link > .m-menu__link-icon, .m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--expanded > .m-menu__link > .m-menu__link-icon {
+                color: #fff;
+            }
+
+            @media (min-width: 1025px) {
+                m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--active > .m-menu__link > .m-menu__link-icon, .m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item.m-menu__item--expanded > .m-menu__link > .m-menu__link-icon {
+                    color: #fff;
+                }
+
+                @media (min-width: 1025px) {
+                    .m-aside-left--minimize .m-aside-menu.m-aside-menu--skin-light .m-menu__nav > .m-menu__item > .m-menu__link > .m-menu__link-icon {
+                        color: #fff!important;
+                    }
